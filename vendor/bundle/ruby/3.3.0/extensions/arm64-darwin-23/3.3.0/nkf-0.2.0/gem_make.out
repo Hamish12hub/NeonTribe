@@ -1,0 +1,18 @@
+current directory: /Users/hamish/Desktop/GeoCapitalStuff/YourProjectFour/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/hamish/Desktop/GeoCapitalStuff/YourProjectFour/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-16244-yiktxg sitelibdir\=./.gem.20240709-16244-yiktxg clean
+
+current directory: /Users/hamish/Desktop/GeoCapitalStuff/YourProjectFour/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-16244-yiktxg sitelibdir\=./.gem.20240709-16244-yiktxg
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/hamish/Desktop/GeoCapitalStuff/YourProjectFour/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-16244-yiktxg sitelibdir\=./.gem.20240709-16244-yiktxg install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240709-16244-yiktxg
+
+current directory: /Users/hamish/Desktop/GeoCapitalStuff/YourProjectFour/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240709-16244-yiktxg sitelibdir\=./.gem.20240709-16244-yiktxg clean
